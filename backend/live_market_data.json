@@ -1,0 +1,222 @@
+{
+  "market_summary": {
+    "total_market_cap": "2.5T",
+    "market_trend": "bullish",
+    "volume": "45.2B",
+    "advancing": 2456,
+    "declining": 1892,
+    "unchanged": 234
+  },
+  "top_gainers": [
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA Corporation",
+      "change": "+12.45",
+      "change_percent": "+8.23%",
+      "price": "163.45"
+    },
+    {
+      "symbol": "TSLA",
+      "name": "Tesla, Inc.",
+      "change": "+8.92",
+      "change_percent": "+5.67%",
+      "price": "166.78"
+    },
+    {
+      "symbol": "META",
+      "name": "Meta Platforms, Inc.",
+      "change": "+6.34",
+      "change_percent": "+4.12%",
+      "price": "160.23"
+    }
+  ],
+  "top_losers": [
+    {
+      "symbol": "AAPL",
+      "name": "Apple Inc.",
+      "change": "-3.21",
+      "change_percent": "-1.89%",
+      "price": "166.54"
+    },
+    {
+      "symbol": "MSFT",
+      "name": "Microsoft Corporation",
+      "change": "-2.87",
+      "change_percent": "-1.45%",
+      "price": "195.67"
+    },
+    {
+      "symbol": "GOOGL",
+      "name": "Alphabet Inc.",
+      "change": "-2.34",
+      "change_percent": "-1.23%",
+      "price": "187.89"
+    }
+  ],
+  "sector_performance": [
+    {
+      "sector": "Technology",
+      "change": "+2.34%",
+      "volume": "15.2B"
+    },
+    {
+      "sector": "Healthcare",
+      "change": "+1.87%",
+      "volume": "8.9B"
+    },
+    {
+      "sector": "Financial",
+      "change": "+0.92%",
+      "volume": "12.1B"
+    },
+    {
+      "sector": "Energy",
+      "change": "-0.45%",
+      "volume": "6.7B"
+    },
+    {
+      "sector": "Consumer Discretionary",
+      "change": "+1.23%",
+      "volume": "9.8B"
+    }
+  ],
+  "market_indicators": {
+    "vix": "18.45",
+    "vix_change": "-0.23",
+    "treasury_10y": "4.23%",
+    "treasury_10y_change": "+0.05%",
+    "dollar_index": "102.45",
+    "dollar_index_change": "-0.12"
+  },
+  "economic_calendar": [
+    {
+      "date": "2024-01-15",
+      "event": "Federal Reserve Meeting",
+      "impact": "High",
+      "time": "14:00 EST"
+    },
+    {
+      "date": "2024-01-16",
+      "event": "CPI Data Release",
+      "impact": "High",
+      "time": "08:30 EST"
+    },
+    {
+      "date": "2024-01-17",
+      "event": "Retail Sales Report",
+      "impact": "Medium",
+      "time": "08:30 EST"
+    },
+    {
+      "date": "2024-01-18",
+      "event": "Jobless Claims",
+      "impact": "Medium",
+      "time": "08:30 EST"
+    },
+    {
+      "date": "2024-01-19",
+      "event": "Housing Starts",
+      "impact": "Low",
+      "time": "08:30 EST"
+    }
+  ],
+  "news_headlines": [
+    {
+      "title": "Tech Stocks Rally on Strong Earnings Reports",
+      "source": "Financial Times",
+      "time": "2 hours ago",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Federal Reserve Signals Potential Rate Cuts",
+      "source": "Wall Street Journal",
+      "time": "4 hours ago",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Oil Prices Decline on Global Demand Concerns",
+      "source": "Reuters",
+      "time": "6 hours ago",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Retail Sales Show Strong Holiday Season",
+      "source": "Bloomberg",
+      "time": "8 hours ago",
+      "sentiment": "positive"
+    },
+    {
+      "title": "Manufacturing Index Exceeds Expectations",
+      "source": "MarketWatch",
+      "time": "10 hours ago",
+      "sentiment": "positive"
+    }
+  ],
+  "crypto_market": {
+    "bitcoin": {
+      "price": "43250",
+      "change": "+1250",
+      "change_percent": "+2.98%",
+      "market_cap": "845.2B"
+    },
+    "ethereum": {
+      "price": "2650",
+      "change": "+89",
+      "change_percent": "+3.48%",
+      "market_cap": "318.7B"
+    },
+    "binance_coin": {
+      "price": "312",
+      "change": "+8.45",
+      "change_percent": "+2.78%",
+      "market_cap": "48.9B"
+    }
+  },
+  "commodities": {
+    "gold": {
+      "price": "2045.50",
+      "change": "+12.30",
+      "change_percent": "+0.60%"
+    },
+    "silver": {
+      "price": "23.45",
+      "change": "+0.23",
+      "change_percent": "+0.99%"
+    },
+    "oil_wti": {
+      "price": "72.45",
+      "change": "-1.23",
+      "change_percent": "-1.67%"
+    },
+    "natural_gas": {
+      "price": "2.89",
+      "change": "+0.12",
+      "change_percent": "+4.33%"
+    }
+  },
+  "forex_market": {
+    "eur_usd": {
+      "rate": "1.0876",
+      "change": "+0.0023",
+      "change_percent": "+0.21%"
+    },
+    "gbp_usd": {
+      "rate": "1.2654",
+      "change": "+0.0018",
+      "change_percent": "+0.14%"
+    },
+    "usd_jpy": {
+      "rate": "148.23",
+      "change": "-0.45",
+      "change_percent": "-0.30%"
+    },
+    "usd_cad": {
+      "rate": "1.3345",
+      "change": "+0.0012",
+      "change_percent": "+0.09%"
+    }
+  },
+  "last_updated": "2024-01-15T10:30:00Z",
+  "data_source": "Yahoo Finance API",
+  "disclaimer": "This data is for informational purposes only and should not be considered as investment advice."
+}

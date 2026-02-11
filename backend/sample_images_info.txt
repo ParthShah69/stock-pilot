@@ -1,0 +1,12 @@
+Sample Aadhar Card Images for Testing KYC Functionality
+
+These images are used to test the OCR (Optical Character Recognition) 
+capabilities of the KYC verification system.
+
+Image files:
+- aadhar_68a4834b395d906e54d5434a_20250819_140215.jpg
+- aadhar_68a50b89431b5a883a6ef063_20250819_235047.jpg
+- aadhar_68a556cad724b6849aa070f4_20250820_050229.jpg
+- aadhar_68a61ab07431a4a2bde7773b_20250820_202824.jpg
+
+Note: These are sample images for development and testing purposes only.
